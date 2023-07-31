@@ -12,4 +12,9 @@ ignore:
           reason: Showing Example of ignored vuln for specific file and resource
           expires: 2024-03-20T18:47:59.705Z
           created: 2022-02-18T18:47:59.709Z
+  SNYK-CC-00234:
+    - '*':
+        reason: Sample ignore vulb for all occurances 
+        expires: 2024-03-20T18:47:59.705Z
+        created: 2022-02-18T18:47:59.709Z
 patch: {}
